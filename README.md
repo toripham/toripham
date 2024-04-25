@@ -2,10 +2,10 @@
 
 I'm a Marketing Manager and Junior Data Analyst!
 
-- 🔭 I’m currently working at fischer Befestigungssysteme Rus
-
-- 👷 I am actively searching for new job opportunities
-
+- 👷 I’m currently working at fischer Befestigungssysteme Rus
+  
+- 🌱 I am actively searching for new job opportunities
+  
 - 🥅 2024 Goals: TBD
 
 - ⚡️ Fun fact: I hate freelancing, but I am freelancing A LOT 😂

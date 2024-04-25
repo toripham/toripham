@@ -2,12 +2,13 @@
 
 I'm a Marketing Manager and Junior Data Analyst!
 
-🔭 I’m currently working at fischer Befestigungssysteme Rus
+- 🔭 I’m currently working at fischer Befestigungssysteme Rus
 
-🥅 2024 Goals: TBD
+- 👷 I am actively searching for new job opportunities
 
-⚡️ Fun fact: I hate freelancing, but I am freelancing A LOT 😂
+- 🥅 2024 Goals: TBD
 
+- ⚡️ Fun fact: I hate freelancing, but I am freelancing A LOT 😂
 
 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](link-to-your-linkedin-profile) | [![Instagram](https://img.shields.io/badge/-Instagram-pink)](https://www.instagram.com/victoripham/?hl=ru)

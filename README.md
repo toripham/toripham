@@ -14,5 +14,7 @@ Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](link-to-your-linkedin-profile) | [![Instagram](https://img.shields.io/badge/-Instagram-pink)](https://www.instagram.com/victoripham/?hl=ru)
 
 Languages and Tools:
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
-
+<img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=4682B4"/>
+<img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=4682B4"/>
+<img src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=Postgresql&logoColor=0000FF"/>
+<img src="https://img.shields.io/badge/sololearn-white?style=for-the-badge&logo=Sololearn&logoColor=1E90FF"/>

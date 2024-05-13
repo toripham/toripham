@@ -11,7 +11,8 @@ I'm a Marketing Manager and Junior Data Analyst!
 - ⚡️ Fun fact: My addiction to analytics is so strong, I even say "end" instead of "bye" 😂
 
 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](link-to-your-linkedin-profile) | [![Instagram](https://img.shields.io/badge/-Instagram-pink)](https://www.instagram.com/victoripham/?hl=ru)
+[<img src="https://img.shields.io/badge/telegram-F5F5F5?style=for-the-badge&logo=Telegram&logoColor=00BFFF"/>](https://t.me/victoripham)
+[<img src="https://img.shields.io/badge/Instagram-F5F5F5?style=for-the-badge&logo=Instagram&logoColor=EE82EE"/>](https://www.instagram.com/victoripham)
 
 Languages and Tools:
 <img src="https://img.shields.io/badge/Python-F5F5F5?style=for-the-badge&logo=Python&logoColor=4682B4"/>

@@ -14,4 +14,5 @@ Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](link-to-your-linkedin-profile) | [![Instagram](https://img.shields.io/badge/-Instagram-pink)](https://www.instagram.com/victoripham/?hl=ru)
 
 Languages and Tools:
-https://img.shields.io/pypi/pyversions/:packageName
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
+

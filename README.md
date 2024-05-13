@@ -8,7 +8,7 @@ I'm a Marketing Manager and Junior Data Analyst!
   
 - 🥅 2024 Goals: TBD
 
-- ⚡️ Fun fact: My addiction to analytics is so strong, I even say **"end" instead of "bye"** 😂
+- ⚡️ Fun fact: My addiction to analytics is so strong, I even say "end" instead of "bye" 😂
 
 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](link-to-your-linkedin-profile) | [![Instagram](https://img.shields.io/badge/-Instagram-pink)](https://www.instagram.com/victoripham/?hl=ru)

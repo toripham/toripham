@@ -14,6 +14,4 @@ Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](link-to-your-linkedin-profile) | [![Instagram](https://img.shields.io/badge/-Instagram-pink)](https://www.instagram.com/victoripham/?hl=ru)
 
 Languages and Tools:
-![image](https://github.com/toripham/toripham/assets/133225475/abc7fc09-0321-4380-82c0-82cf8dac6ce1)
-![image](https://github.com/toripham/toripham/assets/133225475/cd74f4fe-26da-49d7-ac6e-88541fcc44d3)
-![image](https://github.com/toripham/toripham/assets/133225475/e0f48599-fdab-44b8-bd44-19d1ee081c61)
+https://img.shields.io/pypi/pyversions/:packageName
